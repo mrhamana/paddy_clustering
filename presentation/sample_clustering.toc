@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Stratified Sampling}{3}{0}{1}
+\beamer@sectionintoc {2}{Isolation Forest for Anomaly Detection}{11}{0}{2}
+\beamer@sectionintoc {3}{DBSCAN for Clustering}{16}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{20}{0}{4}
